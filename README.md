@@ -28,9 +28,8 @@ Aylık dönemler üzerinden satış ve kâr değişimlerinin görselleştirilmes
 ## Bölgesel Performans Analizi
 Satış ve kâr performansının bölgelere göre dağılımının incelenmesi.
 
-📌 Not: Harita ve görsel analizler `map.html` ve `retail_product_analysis.html` dosyalarında yer almaktadır. 
-Bu dosyalar GitHub arayüzünde doğrudan görüntülenemez. Ancak GitHub Pages üzerinden aşağıdaki linklerden erişebilirsiniz:
+📌 Not: Harita ve tüm görsel analiz çıktıları retail_product_analysis.html dosyasında yer almaktadır.
+Bu dosya GitHub arayüzünde doğrudan görüntülenemez. Ancak GitHub Pages üzerinden aşağıdaki bağlantı ile erişebilirsiniz:
 
-🔗 Harita için: [map.html](https://zehraarslann.github.io/retail-product-portfolio/map.html)  
 🔗 Tüm analiz çıktıları: [retail_product_analysis.html](https://zehraarslann.github.io/retail-product-portfolio/retail_product_analysis.html)
 
